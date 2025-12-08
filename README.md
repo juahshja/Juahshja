@@ -7,16 +7,16 @@
 </p>
 
 <p align="center">
-  <b>Desarrollador Web | Backend </b>
+  <b>Desarrollador Web | Backend | Gestion de Base de Datos </b>
 </p>
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 Personalidad sobre mí
 
 - 💻 Actualmente estoy aprendiendo: **JavaScript, React, Node.js, SQL, MongoDB**
 - 🎮 Me encantan los proyectos relacionados a videojuegos y sistemas web
-- 🚧 Estoy desarrollando: **Nuuvem — Tienda de videojuegos**
+- 🚧 Estoy desarrollando: **G-ZONE— Tienda de videojuegos**
 - 🧠 Objetivo 2025: Ser Full Stack Developer 🔥
 
 ---
