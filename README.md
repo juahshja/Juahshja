@@ -14,17 +14,16 @@
 
 ## 🚀 Personalidad sobre mí
 
-- 💻 Actualmente estoy aprendiendo: **JavaScript, React, Node.js, SQL, MongoDB**
-- 🎮 Me encantan los proyectos relacionados a videojuegos y sistemas web
-- 🚧 Estoy desarrollando: **G-ZONE— Tienda de videojuegos**
-- 🧠 Objetivo 2025: Ser Full Stack Developer 🔥
+- 💻 Actualmente estoy aprendiendo: **JavaScript, React, Node.js, SQL, MongoDB,Pyhton**
+-  Me encantan los proyectos relacionados a videojuegos y sistemas web de Gestion de datos
+-  Full Stack Developer 🔥
 
 ---
 
 ## 🛠️ Tecnologías que uso
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,mongodb,git,github,vscode,python" />
 </p>
 
 ---
