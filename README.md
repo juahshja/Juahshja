@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">✨ Hola, soy Juan Ingeniero de Sistemas ...dedicado a la Gestion de datos y Desarrolado Web 👋</h1>
 
@@ -23,7 +23,7 @@
 ## 🛠️ Tecnologías que uso
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,mongodb,git,github,vscode,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,mongodb,git,github,vscode,python,bootstrap,taiwilind" />
 </p>
 
 ---
