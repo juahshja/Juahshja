@@ -29,8 +29,9 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,mongodb,git,github,vscode,python,bootstrap,tailwind,spring" />
+  <br>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 </p>
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ---
 
 ## 📊 Mis estadísticas de GitHub
