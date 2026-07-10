@@ -1,6 +1,6 @@
 
 
-<h1 align="center">✨ Hola, soy Juan Ingeniero de Sistemas Junior ...del Desarrollador Web y analisis de datos 👋</h1>
+<h1 align="center">✨ Hola, soy Juan Ingeniero de Sistemas Junior Practicante ...del Desarrollado Web y Analisis de datos 👋</h1>
 
 <p align="center">
   <img src="https://blogdemedios.com.ar/download/multimedia.normal.8e966ea27bc6c051.646973656e6f2d726573706f6e736976655f6e6f726d616c2e676966.gif" width="250px">
