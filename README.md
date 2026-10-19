@@ -16,32 +16,34 @@
 ## 🚀 Personalidad sobre mí
 
 
-- 💻 Actualmente aprendiendo: **JavaScript, React, Node.js, SQL, MongoDB, Python,SQL**
-- 🌐 Me encantan los proyectos de desarrollo web y análisis de datos
-- 🔥 Desarrollador web junior en constante crecimiento y con ganas de seguir aprendiendo
-- 🎓 Estudiante del 8° ciclo de la carrera Ingeniería de Sistemas
-- 🌍 Lima, Perú
-- 🤝 Abierto a colaborar en proyectos y ganar experiencia
-- 🎯 Meta: conseguir mi primera experiencia profesional en desarrollo web
+🎓 Estudiante del 8.° ciclo de Ingeniería de Sistemas e Informática en la UTP
+- 💻 Construyo APIs REST con autenticación JWT y he trabajado en proyectos grupales e individuales con Spring Boot, Flask, React y Node.js
+- 🌐 Me encantan los proyectos de desarrollo web y el análisis de datos
+- 📚 Profundizando en: microservicios con Spring (Docker, WebFlux, Spring Security)
+- 🎯 Busco mi primera práctica preprofesional como desarrollador · **Disponibilidad inmediata**
+- 🤝 Abierto a colaborar y seguir aprendiendo
 
 ---
-
+## 📂 Proyectos destacados
+ 
+| Proyecto | Qué hace | Stack | Enlaces |
+|---|---|---|---|
+| **SAMU Lima** · Sistema de ambulancias | Gestión de unidades de emergencia con seguimiento de rutas en tiempo real y 3 roles de usuario (operador, conductor y administrador). En producción. | Flask · Tailwind CSS · Leaflet.js · Render · Vercel | [Demo](https://sistema-ambulancias-web.vercel.app) · [Repositorio](https://github.com/juahshja/Sistema-ambulancias-web) |
+| **Pets Place** · Clínica veterinaria | Proyecto grupal. Desarrollé el módulo de autenticación y fui responsable del repositorio (GitHub Lead). | Spring Boot · JWT · Supabase · React · Figma | [Repositorio](https://github.com/juahshja/Clinica-Veterinaria-PESTPLACE) |
+| **G-Zone** · Tienda de videojuegos | Plataforma e-commerce individual con login, carrito de compras y consumo de APIs. | React · Vite · Node.js · MongoDB Atlas · JWT · Axios | [Repositorio](https://github.com/juahshja/TIENDA-DE-VIDEOJUEGOS-G-ZONE-) |
+| **GameStore** · Tienda virtual | Frontend con catálogo de productos, navegación y carrito de compras responsivo. | Angular · TypeScript | [Repositorio](https://github.com/juahshja/GameStore) |
+ 
+---
 ## 🛠️ Tecnologías que uso
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,mongodb,git,github,vscode,python,bootstrap,tailwind,spring" />
-  <br>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+ 
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,flask,js,ts,nodejs,react,angular,tailwind,postgres,mongodb,docker,git,github,postman,vscode" alt="Tecnologías" />
 </p>
----
-
-## 📊 Mis estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juahshja&show_icons=true&theme=tokyonight" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juahshja&layout=compact&theme=tokyonight" height="170">
-</p>
-
+- **Lenguajes:** Java, Python, JavaScript, TypeScript
+- **Backend:** Spring Boot, Spring Security, Spring Data JPA, Node.js (Express), Flask, APIs REST, JWT
+- **Frontend:** React, Angular, Tailwind CSS, HTML5, CSS3
+- **Bases de datos:** PostgreSQL, MySQL, MongoDB Atlas, Supabase
+- **Herramientas:** Git, GitHub, Postman, Docker, Swagger/OpenAPI, Jira
 ---
 
 🔗 Conecta conmigo
