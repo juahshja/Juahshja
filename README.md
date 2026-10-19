@@ -19,7 +19,7 @@
 - 💻 Actualmente aprendiendo: **JavaScript, React, Node.js, SQL, MongoDB, Python,SQL**
 - 🌐 Me encantan los proyectos de desarrollo web y análisis de datos
 - 🔥 Desarrollador web junior en constante crecimiento y con ganas de seguir aprendiendo
-- 🎓 Estudiante del 7° ciclo de la carrera Ingeniería de Sistemas
+- 🎓 Estudiante del 8° ciclo de la carrera Ingeniería de Sistemas
 - 🌍 Lima, Perú
 - 🤝 Abierto a colaborar en proyectos y ganar experiencia
 - 🎯 Meta: conseguir mi primera experiencia profesional en desarrollo web
