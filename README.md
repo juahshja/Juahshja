@@ -7,7 +7,8 @@
 </p>
 
 <p align="center">
-  <b>Desarrollador Web | Backend | Gestion de Base de Datos </b>
+  <b>Desarrollador Web | Backend | FullStack
+  </b>
 </p>
 
 ---
